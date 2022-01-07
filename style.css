@@ -1,0 +1,24 @@
+main {
+    padding-right: 100px;
+   padding-left: 150px;
+    
+}
+
+.block {
+    display: flex;
+}
+
+
+
+img {
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 20px;
+    margin-bottom: 0;
+}
+
+p {
+    padding-left: 73px;
+    margin-top: 0;
+}
+
